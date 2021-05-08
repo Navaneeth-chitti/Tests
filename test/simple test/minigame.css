@@ -1,0 +1,267 @@
+.num1 a:hover{
+ text-decoration-line: none;
+}
+
+
+
+.mynum{
+   
+   display: flex;
+   justify-content: center;
+    font-size: 72px;
+    align-items: center;
+    height: 150px;
+    background-color:#BFBFBF;
+    color: white;
+}
+.mynum2{
+   
+    display: flex;
+    justify-content: center;
+     font-size: 72px;
+     align-items: center;
+     height: 150px;
+     background-color:#2B8EAD;
+     color: white;
+ }
+ .mynum3{
+   
+    display: flex;
+    justify-content: center;
+     font-size: 72px;
+     align-items: center;
+     height: 150px;
+     background-color:#2F454E;
+     color: white;
+ }
+
+ .Shuffle .btn-primary{
+     background-color: #2B8EAD;
+     border: #2B8EAD;
+     
+ }
+
+ .mynumrow1{
+   
+    display: flex;
+    justify-content: center;
+     font-size: 72px;
+     align-items: center;
+     height: 150px;
+     background-color:#2B8EAD;
+     color: white;
+ }
+ .mynumrow2{
+    
+     display: flex;
+     justify-content: center;
+      font-size: 72px;
+      align-items: center;
+      height: 150px;
+      background-color:#2F454E;
+      color: white;
+  }
+  .mynumrow3{
+    
+     display: flex;
+     justify-content: center;
+      font-size: 72px;
+      align-items: center;
+      height: 150px;
+      background-color:#BFBFBF;
+      color: white;
+  }
+
+  .mynum-row1{
+   
+    display: flex;
+    justify-content: center;
+     font-size: 72px;
+     align-items: center;
+     height: 150px;
+     background-color:#BFBFBF;
+     color: white;
+     
+ }
+ .mynum-row2{
+    
+     display: flex;
+     justify-content: center;
+      font-size: 72px;
+      align-items: center;
+      height: 150px;
+      background-color:#2B8EAD;
+      color: white;
+  }
+  .mynum-row3{
+    
+     display: flex;
+     justify-content: center;
+      font-size: 72px;
+      align-items: center;
+      height: 150px;
+      background-color:#2F454E;
+      color: white;
+
+     
+  }
+ 
+  .Shuffle .btn-primary{
+       background-color: #2B8EAD;
+      border: #2B8EAD;
+      
+  }
+ .Shuffle{
+     display: flex;
+     justify-content: center;
+     height: 70px;
+     align-items: center;
+ }
+
+ .sort{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    align-items: center;
+ }
+ .sort .btn-primary{
+    background-color: #2B8EAD;
+    border: #2B8EAD;
+    padding-left: 60px;
+    padding-right: 60px;
+ }
+ 
+ @media screen and (max-width:500px) {
+    .mynum-row3{
+        font-size:25px;
+        height:50px;
+        margin-bottom: 3px; 
+        color:black;
+        background-color: white;
+        border-left: 12px solid #2F454E ;
+        background-color:aliceblue;
+    }
+    
+}
+
+@media screen and (max-width:500px) {
+    .mynum-row2{
+        font-size:25px;
+        height:50px;
+        margin-bottom: 3px; 
+        color:black;
+        background-color: white;
+        border-left: 12px solid #2B8EAD ;
+        background-color:aliceblue;
+    }
+    
+}
+
+@media screen and (max-width:500px) {
+    .mynum-row1{
+        font-size:25px;
+        height:50px;
+        margin-bottom: 3px; 
+        color:black;
+        background-color: white;
+        border-left: 12px solid #BFBFBF ;
+        background-color:aliceblue;
+    }
+    
+}
+
+@media screen and (max-width:500px) {
+    .mynumrow3{
+        font-size:25px;
+        height:50px;
+        margin-bottom: 3px; 
+        color:black;
+        background-color: white;
+        border-left: 12px solid #BFBFBF ;
+        background-color:aliceblue;
+       }
+    
+}
+
+@media screen and (max-width:500px) {
+    .mynumrow2{
+        font-size:25px;
+        height:50px;
+        margin-bottom: 3px; 
+        color:black;
+        background-color: white;
+        border-left: 12px solid #2F454E ;
+        background-color:aliceblue;
+    }
+    
+}
+
+@media screen and (max-width:500px) {
+    .mynumrow1{
+        font-size:25px;
+        height:50px;
+        margin-bottom: 3px; 
+        color:black;
+        background-color: white;
+        border-left: 12px solid #2B8EAD ;
+        background-color:aliceblue;
+    }
+    
+}
+
+@media screen and (max-width:500px) {
+    .mynum{
+        font-size:25px;
+        height:50px;
+        margin-bottom: 3px; 
+        color:black;
+        background-color: white;
+         border-left: 12px solid #BFBFBF ; 
+       background-color:aliceblue;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .mynum2{
+        font-size:25px;
+        height:50px;
+        margin-bottom: 3px; 
+        color:black;
+        background-color: white;
+        border-left:12px solid #2B8EAD;
+        background-color:aliceblue;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .mynum3{
+        font-size:25px;
+        height:50px;
+        margin-bottom: 3px; 
+        color:black;
+        background-color: white;
+        border-left: 12px solid #2F454E ;
+        background-color:aliceblue;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .first{
+
+        flex-direction:column-reverse;
+        
+      
+    }
+  }
+
+
+  @media screen and (max-width: 500px) {
+    .but-mediaQ{
+
+       margin-bottom: 12px;
+        
+      
+    }
+  }
+
+  
